@@ -1,0 +1,316 @@
+.logoonleft {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 200px;
+
+}
+
+.logonetflix {
+    height: 12vh;
+    width: auto;
+    display: flex;
+}
+
+.english {
+    background-color: black;
+    width: 8vw;
+    color: white;
+    font-size: 15px;
+    margin-top: 25px;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+.Signin {
+    background-color: red;
+    color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 8px;
+}
+
+.headerbar {
+    background-image: url('IN-en-20240102-trifectadaily-perspective_alpha_website_large.jpg');
+    height: 98vh;
+    width: 98vw;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    background-size: cover;
+    opacity: 0.89;
+
+}
+
+header {
+    border-bottom: 5px solid grey;
+}
+
+.infologobar {
+    margin-top: 20vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 15px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    ;
+}
+
+.barinfo1 {
+
+    margin: 0;
+    font-size: 2.9rem;
+    font-weight: 800;
+    color: white;
+
+}
+
+.barinfo2 {
+    margin-top: 12px;
+    font-size: 1.8rem;
+    font-weight: 350;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.barinfo3 {
+
+
+    margin: 0;
+    font-size: 1.3rem;
+    font-weight: 300;
+    color: white;
+}
+
+.inputpart {
+    display: flex;
+    justify-content: center;
+
+}
+
+.submitbutton {
+    width: 13vw;
+    background-color: red;
+    font-size: 1.1rem;
+    padding: 20px;
+    color: white;
+    border-radius: 8px;
+    margin-left: 12px;
+}
+
+.searchbar {
+    background-color: rgb(143, 139, 139);
+    padding: 8px 16px 8px;
+    border-radius: 12px;
+    width: 21vw;
+    height: 6vh;
+}
+
+.part2maininfo1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    text-align: start;
+    padding-left: 15vw;
+}
+
+.parttvinlinepart1 {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 5px solid gray;
+    border-top: 3px solid gray;
+
+}
+
+.infopart1main1 {
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.part1img {
+    position: relative;
+    height: auto;
+    z-index: 10;
+}
+
+.partonevedio {
+    height: 37vh;
+    width: auto;
+    position: relative;
+    background-attachment: fixed;
+    top: -380px;
+    right: -89px;
+}
+
+.textpart1moblie1 {
+    color: white;
+    margin-top: 22vh;
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+
+.textpart1moblie2 {
+    color: white;
+    font-size: 2rem;
+    font-weight: 300;
+
+}
+
+.partalltwomobile {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 28vh;
+    padding-right: 28vh;
+    border-bottom: 5px solid grey;
+}
+
+.mobileimgha {
+    height: 56vh;
+    width: auto;
+}
+
+.booklinetext1 {
+    color: white;
+}
+
+.boxofmobileimageandbook {
+    display: flex;
+    justify-content: center;
+    border: 2px solid white;
+    height: 12vh;
+    width: 16vw;
+    margin-left: 20vh;
+    border-radius: 7px;
+    gap: 12px;
+}
+
+.bookpartsize {
+    height: 12vh;
+    width: auto;
+}
+
+.downloadbooksign {
+    height: 8vh;
+    width: auto;
+    margin-top: 12px;
+}
+
+
+.partalltwotexttvtext1 {
+    color: white;
+    font-size: 3rem;
+    font-weight: 900;
+    height: 65px;
+}
+
+.partalltwotexttvtext2 {
+    color: white;
+    font-size: 2.4rem;
+    font-weight: 500;
+}
+
+.partalltwotvbottommobile {
+    display: flex;
+    padding: 12vh;
+    border-bottom: 5px solid grey;
+}
+
+.tvpart3allinpart3 {
+    margin-top: 22vh;
+    gap: 12vw;
+}
+
+.parttvjustdoit {
+    display: flex;
+}
+
+.tvpart3ha {
+    position: relative;
+    width: 37vw;
+    z-index: 10;
+}
+
+.tvvediopart3 {
+    position: relative;
+    background-attachment: fixed;
+    height: 38vh;
+    width: 20vw;
+    left: -27vw;
+}
+
+.textchildrentext1 {
+    padding-right: 12vh;
+    margin-top: 22vh;
+    color: white;
+    font-size: 2.3rem;
+    font-weight: 900;
+}
+
+.textchildrentext2 {
+    padding-right: 12vh;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.children121 {
+    display: flex;
+    justify-content: space-around;
+    padding: 38px;
+
+}
+
+.children {
+    border-bottom: 5px solid gray;
+}
+
+.frequently {
+    text-align: center;
+    color: white;
+}
+
+.frequently1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-top: 10vh;
+}
+
+.askfrequenty1 {
+    width: 53vw;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25vw;
+    background-color: rgba(109, 109, 109, 0.522);
+    padding: 12px;
+}
+
+.askfrequentybaritem {
+    padding-right: 12vw;
+}
+
+.join1 {
+    margin-top: 24px;
+    height: 4vh;
+    width: 2vw;
+    background-color: rgba(109, 109, 109, 0.522);
+    color: white;
+    text-decoration: none;
+}
+
+.askfrequentybaritem2 {
+    padding-right: 12vw;
+}
+.askfrequenty2 {
+    width: 53vw;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25vw;
+    margin-top: 12px;
+    background-color: rgba(109, 109, 109, 0.522);
+    padding: 12px;
+    font-weight: 300;
+}
